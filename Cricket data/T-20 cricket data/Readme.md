@@ -1,12 +1,6 @@
 T-20 Cricket Tournament Data Analysis
 
 
-
-
-
-
-
-
 📌 Project Overview
 
 This repository contains a structured T-20 Cricket Tournament Dataset used for performing data analysis, visualization, and sports analytics research.
